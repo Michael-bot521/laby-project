@@ -14,5 +14,9 @@ class Macgyver:
     def take_item(self, item):
         # hero take an item when arriving on item sprite
 
-    def happy_end(self):
-        # check if hero get 3 items when arriving exit
+class Items:
+    def __init__(self, image, position):
+        self.image = image
+        self.position = position
+        
+    def 
