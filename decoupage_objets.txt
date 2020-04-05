@@ -1,0 +1,42 @@
+"""
+class MacGyver:
+    def __init__(self, sprite, start_position):
+        sprite
+        start_position
+
+    def macgyver_moves(self):
+        up move
+        down move
+        right move
+        left move
+        
+        
+class Labyrinthe:
+    def __init__(self, sprite, position):
+        wall_sprite
+        floor_sprite
+        walls position
+        floor position
+    
+    def macgyver_tracker():
+        check if macgyver next move is not on wall
+    
+    def macgyver_end():
+        check if macgyver meet the guard
+        check if macgyver has found 3 items when showing to the guard
+    
+        
+class Item:
+    def __init__(self, sprite, position):
+        sprite
+        position randomly defined at game launch
+        
+    def macgyver_get():
+        check if macgyver finds items
+        add item to inventory when found by macgyver
+        
+class Guard:
+    def __init__(self, sprite, position):
+        sprite
+        position
+"""
