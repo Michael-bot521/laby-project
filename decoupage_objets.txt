@@ -3,7 +3,10 @@ class MacGyver:
     def __init__(self, sprite, start_position):
         sprite
         start_position
-
+    def position(self):
+        self.x = x
+        self.y = y
+        
     def macgyver_moves(self):
         up move
         down move
